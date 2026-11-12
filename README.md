@@ -3,7 +3,7 @@
 **Author:** Anushka Pandey, Cambridge Centre for International Research
 **DOI:** https://doi.org/10.5281/zenodo.24153394
 **Licence:** Creative Commons Attribution 4.0 International (CC BY 4.0), with source-data attributions listed below.
-**Contact:** [your e-mail address]
+**Contact:** anushkap.1906@gmail.com
 
 ## 1. Overview
 
