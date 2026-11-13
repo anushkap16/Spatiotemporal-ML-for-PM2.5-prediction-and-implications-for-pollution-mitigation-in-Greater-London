@@ -2,7 +2,7 @@
 
 Code accompanying the manuscript by Anushka Pandey (Cambridge Centre for International Research).
 
-**Data:** (the data are too large for GitHub and are not stored in this repository).
+**Data:** https://zenodo.org/records/24153394 (the data are too large for GitHub and are not stored in this repository).
 
 ## What this code does
 
