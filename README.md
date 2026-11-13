@@ -1,7 +1,8 @@
 # Spatiotemporal machine learning for PM2.5 prediction and implications for pollution mitigation in Greater London
 
 Code accompanying the manuscript by Anushka Pandey (Cambridge Centre for International Research).
-**Data:** https://doi.org/10.5281/zenodo.24153394 (the data are too large for GitHub and are not stored in this repository).
+
+**Data:** (the data are too large for GitHub and are not stored in this repository).
 
 ## What this code does
 
